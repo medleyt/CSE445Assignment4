@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NationalParks>
+
+	<!-- Required assignment example. Other ratings are illustrative test values. -->
+	<NationalPark Rating="4.9">
+		<Name>Grand Canyon</Name>
+		<Phone>928-638-7496</Phone>
+		<Phone>888-297-2757</Phone>
+		<Phone>866-499-2574</Phone>
+		<Address NearestAirport="FlagStaff">
+			<Number>8</Number>
+			<Street>S Entrance Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8">
+		<Name>White Sands</Name>
+		<Phone>575-479-6124</Phone>
+		<Address NearestAirport="El Paso">
+			<Number>19955</Number>
+			<Street>Highway 70 West</Street>
+			<City>Alamogordo</City>
+			<State>NM</State>
+			<Zip>88310</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Carlsbad Caverns</Name>
+		<Phone>575-236-1309</Phone>
+		<Address NearestAirport="Carlsbad">
+			<Number>727</Number>
+			<Street>Carlsbad Caverns Highway</Street>
+			<City>Carlsbad</City>
+			<State>NM</State>
+			<Zip>88220</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Petrified Forest</Name>
+		<Phone>928-524-6822 ext. 0</Phone>
+		<Address NearestAirport="Holbrook">
+			<Number>Exit 311</Number>
+			<Street>Interstate 40</Street>
+			<City>Petrified Forest</City>
+			<State>AZ</State>
+			<Zip>86028</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.7">
+		<Name>Capitol Reef</Name>
+		<Phone>435-425-3791</Phone>
+		<Address NearestAirport="Wayne Wonderland Airport">
+			<Number>52</Number>
+			<Street>West Headquarters Drive</Street>
+			<City>Torrey</City>
+			<State>UT</State>
+			<Zip>84775</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Great Basin</Name>
+		<Phone>775-234-7331</Phone>
+		<!-- Reservation service. -->
+		<Phone>877-444-6777</Phone>
+		<Address NearestAirport="Cedar City Regional Airport">
+			<Number>100</Number>
+			<Street>Great Basin National Park</Street>
+			<City>Baker</City>
+			<State>NV</State>
+			<Zip>89311</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.6">
+		<Name>Lassen Volcanic</Name>
+		<Phone>530-595-6100</Phone>
+		<!-- Reservation service. -->
+		<Phone>877-444-6777</Phone>
+		<Address NearestAirport="Redding">
+			<Number>21820</Number>
+			<Street>Lassen National Park Highway</Street>
+			<City>Mineral</City>
+			<State>CA</State>
+			<Zip>96063</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Voyageurs</Name>
+		<Phone>218-283-6600</Phone>
+		<Address NearestAirport="Falls International Airport">
+			<Number>1797</Number>
+			<Street>Township Road 342</Street>
+			<City>International Falls</City>
+			<State>MN</State>
+			<Zip>56649</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Indiana Dunes</Name>
+		<Phone>219-395-1882</Phone>
+		<Address NearestAirport="Gary Regional Airport">
+			<Number>1215</Number>
+			<Street>IN-49</Street>
+			<City>Porter</City>
+			<State>IN</State>
+			<Zip>46304</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.5">
+		<Name>Cuyahoga Valley</Name>
+		<Phone>440-717-3890</Phone>
+		<Address NearestAirport="Cleveland Hopkins International Airport">
+			<Number>6947</Number>
+			<Street>Riverview Road</Street>
+			<City>Peninsula</City>
+			<State>OH</State>
+			<Zip>44264</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Congaree</Name>
+		<Phone>803-776-4396</Phone>
+		<Address NearestAirport="Columbia Metropolitan Airport">
+			<Number>100</Number>
+			<Street>National Park Road</Street>
+			<City>Hopkins</City>
+			<State>SC</State>
+			<Zip>29061</Zip>
+		</Address>
+	</NationalPark>
+
+</NationalParks>
