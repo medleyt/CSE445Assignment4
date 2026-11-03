@@ -1,7 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <!-- Error 1: The directory root must be NationalParks. -->
-<NationalPark>
+<NationalPark
+    xmlns="https://medleyt.github.io/CSE445Assignment4/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://medleyt.github.io/CSE445Assignment4/ https://medleyt.github.io/CSE445Assignment4/NationalParks.xsd">
 
 	<!-- Required assignment example. Other ratings are illustrative test values. -->
 	<NationalPark Rating="4.9">
